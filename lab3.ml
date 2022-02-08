@@ -23,7 +23,7 @@ data. They differ in whether their components are selected by *name*
 or by *position*, respectively.
 
 Consider a point in Cartesian (x-y) coordinates. A point is specified
-by its x and y values, which we'll take to be floats. We can package
+by its x and y values, which we'll take to be ints. We can package
 these together as a pair (a 2-tuple), as in the following data type
 definition: *)
 
